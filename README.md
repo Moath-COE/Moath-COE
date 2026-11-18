@@ -1,5 +1,5 @@
 <a href="https://moaz-coe.com">
-  <img src="assets/banner-dark.png" alt="Moaz Abdelaziz, AI Engineer. I build AI products that deliver real value." width="100%">
+  <img src="cover.png" alt="Moaz Abdelaziz, AI Engineer. I build AI products that deliver real value." width="100%">
 </a>
 
 <p align="center">
